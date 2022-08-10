@@ -1,0 +1,127 @@
+.head{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    
+
+}
+
+.head a{
+    color: #109E97;
+}
+
+a:link { text-decoration: none; }
+
+
+
+.Paragraph{
+    word-spacing: 1em;
+    letter-spacing: 3px;
+    color: aliceblue;
+     background-color: black; 
+     text-align: right;
+}
+
+.headPicture{
+   
+}
+
+.pictr{
+    display: inline-block;
+    position: relative;
+  left: 35rem;
+ 
+    
+}
+
+.bookname{
+    position: absolute;
+width: 504px;
+height: 27px;
+left: 8px;
+top: 152px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 27px;
+}
+
+ .firstprice{
+   
+
+ font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px; 
+
+    color: #008000;
+} 
+
+
+ .secondprice{
+     
+width: 72px;
+height: 18px;
+left: 35px;
+top: 208px; 
+color: crimson;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration: line-through crimson
+
+
+} 
+
+
+.comment{
+    display: inline-block;
+    position: relative;
+  left: 35rem;
+  text-align: center;
+  
+     
+
+}
+
+
+.butt{
+    
+width: 120px;
+height: 50px;
+left: 859px;
+top: 1595px;
+
+background: #109E97;
+border: 2px solid #767676;
+border-radius: 0px;
+}
+
+.price{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+
+
+.end{
+    
+
+background: #109E97;
+
+text-align: center;
+color: #FFFFFF;
+
+width: 2050px;
+height: 86px;
+left: 8px;
+top: 1839px;
+    
+}
