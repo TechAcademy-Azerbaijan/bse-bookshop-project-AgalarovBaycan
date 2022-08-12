@@ -1,7 +1,11 @@
-.head{
+ 
+
+
+  .head{
     font-family: 'Lobster', cursive;
     text-align: center;
     text-transform: uppercase;
+    
     
 
 }
@@ -122,4 +126,5 @@ height: 86px;
 left: 8px;
 top: 1839px;
     
-}
+}  
+
